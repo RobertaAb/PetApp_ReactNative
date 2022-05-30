@@ -6,7 +6,7 @@
 
 #expo-cli global instalado - $ npm i -g expo-cli
 
-$ git clone https://github.com/GusttavoLopes/ps-projeto-pet.git
+$ git clone (https://github.com/RobertaAb/PetApp_ReactNative)
 
 $ cd pet
 
